@@ -1,0 +1,7 @@
+<properties>
+    <property name="storage-directory" value ="mnmslambdaexample" />
+    <property name="storage-filesystem.aws.s3.credentials.type" value="static" />
+    <property name="storage-filesystem.aws.s3.credentials.access-key-id" value="enter your access-key-id here" />
+    <property name="storage-filesystem.aws.s3.credentials.secret-access-key" value="enter your secret-access-key here" />
+    <property name="storage-filesystem.aws.s3.credentials.region" value="eu-central-1" />
+</properties>
